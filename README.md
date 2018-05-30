@@ -15,4 +15,8 @@ ionic cordova plugin rm cordova-plugin-console
 ionic cordova build --release android
 </pre>
 
+Caso acontece erro de build tente:
+<pre>
+brew install gradle
+</pre>
 
