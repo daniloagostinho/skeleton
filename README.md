@@ -35,6 +35,14 @@ sera pedido uma senha para a key
 
 4. Emular ios
 <pre>
+ionic cordova build ios
 ionic cordova emulate ios
 </pre>
+
+4. Emular Android
+<pre>
+ionic cordova build android
+ionic cordova emulate android
+</pre>
+
 continuar...
