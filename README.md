@@ -45,4 +45,10 @@ ionic cordova build android
 ionic cordova emulate android -l
 </pre>
 
-continuar...
+6. Build Android
+<pre>
+ionic cordova platform add android
+ionic cordova build android
+ionic cordova build android -prod
+</pre>
+
