@@ -28,10 +28,13 @@ Apk sera gerado no endereco:
 3. Gera um aprivate key
 <pre>
 
-
 </pre>
 
 sera pedido uma senha para a key
 88ab15cd98ef12
 
+4. Emular ios
+<pre>
+ionic cordova emulate ios
+</pre>
 continuar...
