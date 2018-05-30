@@ -39,7 +39,7 @@ ionic cordova build ios
 ionic cordova emulate ios
 </pre>
 
-4. Emular Android
+5. Emular Android
 <pre>
 ionic cordova build android
 ionic cordova emulate android
