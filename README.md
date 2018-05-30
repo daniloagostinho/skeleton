@@ -6,13 +6,13 @@ Config de Build app apk
 
 1. Rm plugin cordova console
 
-``bash
+<pre>
 ionic cordova plugin rm cordova-plugin-console
-``
+</pre>
 2. Buil da versao android
 
-``bash
+<pre>
 ionic cordova build --release android
-``
+</pre>
 
 
