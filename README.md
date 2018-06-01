@@ -27,7 +27,7 @@ Apk sera gerado no endereco:
 
 3. Gera um aprivate key
 <pre>
-
+keytool -genkey -v -keystore nome-key.keystore -alias nome-key -keyalg RSA -keysize 2048 -validity 10000
 </pre>
 
 sera pedido uma senha para a key
